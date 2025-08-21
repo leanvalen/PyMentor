@@ -1,0 +1,4 @@
+El trigger es el disparador, la razon especifica que da inicio a la accion
+El action es cada accion posterior al trigger
+
+Un objetivo claro es descomponer una idea vaga hasta transformarla en una serie de pasos 
